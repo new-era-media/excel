@@ -7,7 +7,14 @@
   },
   "rules": {
     "linebreak-style": "off",
-    "quotes": "off"
+    "quotes": "off",
+    "require-jsdoc": "off",
+    "object-curly-spacing": "off",
+    "no-trailing-spaces": "off",
+    "semi": "off",
+    "operator-linebreak": "off",
+    "indent": "off",
+    "no-unused-vars": "off"
   },
   "extends": ["eslint:recommended", "google"]
 }
